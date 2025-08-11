@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --main-color: #fff;
+  --secondary-color: #000;
+  --light-color: #f1f1f1;
+  --bg-color: #f3f3f3;
+  --main-font: "Cairo";
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  background-color: var(--bg-color);
+  font-family: "Hind", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #e5e5e5;
+  border-radius: 5px;
+  overflow: hidden;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--main-color);
+  outline: 1px solid transparent;
+  border-radius: 5px;
+  overflow: hidden;
+}

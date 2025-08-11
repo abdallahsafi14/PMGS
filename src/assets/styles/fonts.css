@@ -1,0 +1,82 @@
+/* Hind fonts import */
+@font-face {
+  font-family: "Hind";
+  src: url("../fonts/Hind/Hind-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hind";
+  src: url("../fonts/Hind/Hind-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hind";
+  src: url("../fonts/Hind/Hind-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hind";
+  src: url("../fonts/Hind/Hind-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hind";
+  src: url("../fonts/Hind/Hind-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+/* GOTHIC fonts import */
+@font-face {
+  font-family: "Gothic";
+  src: url("../fonts/GOTHIC/GOTHIC.TTF") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Gothic";
+  src: url("../fonts/GOTHIC/GOTHICB.TTF") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Gothic";
+  src: url("../fonts/GOTHIC/GOTHICBI.TTF") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Gothic";
+  src: url("../fonts/GOTHIC/GOTHICI.TTF") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+/* Alexandria fonts import */
+@font-face {
+  font-family: "Alexandria";
+  src: url("../fonts/Alexandria/Alexandria-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Alexandria";
+  src: url("../fonts/Alexandria/Alexandria-ExtraBold.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Alexandria";
+  src: url("../fonts/Alexandria/Alexandria-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Alexandria";
+  src: url("../fonts/Alexandria/Alexandria-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+

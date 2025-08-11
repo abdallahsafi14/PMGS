@@ -1,0 +1,16 @@
+@import "fonts.css";
+
+/* Libraries */
+
+/* bootstrap */
+/* @import "bootstrap/dist/css/bootstrap.min.css"; */
+
+/* react toastify */
+/* @import "react-toastify/dist/ReactToastify.css"; */
+
+/* ---- Skelton Loading Library */
+@import "react-loading-skeleton/dist/skeleton.css";
+
+/* end Libraries */
+
+@import "global.css";
